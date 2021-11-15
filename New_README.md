@@ -30,4 +30,4 @@ Project is successful if a README file containing user inputs is generated.
 ## Questions
 Visit the github repository at https://www.github.com/vbmisra
 
-For additional questions, send an email to m.varoun@gmail.com
+For additional questions, send an email to example@example.com
