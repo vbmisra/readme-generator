@@ -7,5 +7,7 @@ This node application will take in user inputs for a readme file and generate a 
 ## How to Use
 Click the link below to access a video with usage instructions:
 
+https://watch.screencastify.com/v/OPCpGpKOFcz28PdZyAxQ
+
 ## Getting Started
 Download the application and run on your computer to generate a readme file for your next project!
